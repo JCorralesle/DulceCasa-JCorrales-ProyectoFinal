@@ -1,0 +1,36 @@
+$color-1: rgb(202, 95, 113);
+
+html {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100%;
+        
+    
+    h1  {
+        color: $color-1;
+
+    }
+    h2 {
+        color: $color-1;
+        font-weight: bold;
+    }
+    
+    h3 {
+        color: $color-1;
+        font-weight: bold;
+
+    }
+    h5 {
+        color: $color-1;
+        
+    }
+    p {
+        color: gray;
+        line-height: 1.9;
+        text-align: justify;
+    }
+   
+    a {
+        color: $color-1;
+    }
+    
+}

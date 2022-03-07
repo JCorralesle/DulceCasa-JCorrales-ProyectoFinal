@@ -1,0 +1,59 @@
+/* Esto es un comentario de bloque en CSS puro */
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  border: 0px;
+  outline: 0px;
+}
+
+html {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 100%;
+}
+html h1 {
+  color: #ca5f71;
+}
+html h2 {
+  color: #ca5f71;
+  font-weight: bold;
+}
+html h3 {
+  color: #ca5f71;
+  font-weight: bold;
+}
+html h5 {
+  color: #ca5f71;
+}
+html p {
+  color: gray;
+  line-height: 1.9;
+  text-align: justify;
+}
+html a {
+  color: #ca5f71;
+}
+
+header {
+  margin: 0px;
+  padding: 0px;
+}
+header div {
+  background-color: lightpink;
+}
+header div div li ul li {
+  background-color: lightpink;
+}
+
+footer {
+  background-color: lightpink;
+}
+
+main {
+  background-color: whitesmoke;
+}
+main div article {
+  background-color: pink;
+}
+
+/*# sourceMappingURL=destino.css.map */

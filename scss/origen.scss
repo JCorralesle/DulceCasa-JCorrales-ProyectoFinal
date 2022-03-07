@@ -1,0 +1,22 @@
+// Esto es un comentario de linea
+
+/* Esto es un comentario de bloque en CSS puro */
+
+@import "reseteo";
+@import "tipografia";
+@import "header";
+@import "footer";
+
+
+main {
+    background-color: whitesmoke;
+    div {
+        article {
+            background-color: pink;
+        }
+    }
+}
+
+
+
+
