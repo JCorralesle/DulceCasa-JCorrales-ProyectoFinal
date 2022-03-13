@@ -1,0 +1,16 @@
+.cuadro-salado {
+    background-color: #ffd9e0;
+    border-radius: 10px;
+    border-color: hotpink;
+}
+.cuadro-combo {
+    @extend .cuadro-salado;
+    border-color: lightpink;
+    
+
+}
+.cuadro-box {
+    @extend .cuadro-salado;
+    border-color: pink;
+    
+}

@@ -1,0 +1,16 @@
+@mixin dimension ($ancho, $alto){
+    width: $ancho;
+    height: $alto;
+}
+.caja-dulce {
+    @include dimension (18rem, 22rem);
+}
+.caja-salado {
+    @include dimension (18rem, 22rem);
+}
+.caja-combo {
+    @include dimension (23rem, 46rem)
+}
+.caja-box {
+    @include dimension (25rem, 91rem)
+}

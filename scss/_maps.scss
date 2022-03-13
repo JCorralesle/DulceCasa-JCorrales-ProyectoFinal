@@ -1,0 +1,12 @@
+$colores: (
+    direccion:  #ca5f71,
+    telefono:   hotpink,
+    mail:          pink,
+    reserva:     lightpink,
+);
+
+@each $nombres, $color in $colores {
+    .simbolo-#{$nombres} {
+        color: $color;
+    }
+}

@@ -6,17 +6,18 @@
 @import "tipografia";
 @import "header";
 @import "footer";
-
+@import "extend";
+@import "mixin";
+@import "maps";
 
 main {
     background-color: whitesmoke;
     div {
         article {
-            background-color: green;
+            background-color: #ffd9e0;
         }
     }
 }
-
-
+ 
 
 

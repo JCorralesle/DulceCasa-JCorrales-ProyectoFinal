@@ -39,21 +39,71 @@ header {
   padding: 0px;
 }
 header div {
-  background-color: lightpink;
+  background-color: #ffd9e0;
 }
 header div div li ul li {
-  background-color: lightpink;
+  background-color: #ffd9e0;
 }
 
 footer {
-  background-color: lightpink;
+  background-color: #ffd9e0;
+}
+
+.cuadro-salado, .cuadro-box, .cuadro-combo {
+  background-color: #ffd9e0;
+  border-radius: 10px;
+  border-color: hotpink;
+}
+
+.cuadro-combo {
+  border-color: lightpink;
+}
+
+.cuadro-box {
+  border-color: pink;
+}
+
+.caja-dulce {
+  width: 18rem;
+  height: 22rem;
+}
+
+.caja-salado {
+  width: 18rem;
+  height: 22rem;
+}
+
+.caja-combo {
+  width: 23rem;
+  height: 46rem;
+}
+
+.caja-box {
+  width: 25rem;
+  height: 91rem;
+}
+
+.simbolo-direccion {
+  color: #ca5f71;
+}
+
+.simbolo-telefono {
+  color: hotpink;
+}
+
+.simbolo-mail {
+  color: pink;
+}
+
+.simbolo-reserva {
+  color: lightpink;
 }
 
 main {
   background-color: whitesmoke;
 }
 main div article {
-  background-color: pink;
+  background-color: #ffd9e0;
 }
 
 /*# sourceMappingURL=destino.css.map */
